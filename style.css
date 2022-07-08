@@ -1,6 +1,10 @@
 body {
-  background: #1f1f1f;
+  background: #1F1F1F;
   color: #faf8eb;
   padding: 25px;
   font-family: verdana;
+}
+
+a {
+    color: #92BFC8
 }
