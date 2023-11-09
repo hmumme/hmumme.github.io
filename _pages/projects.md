@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+----------------
+
 My research projects are mainly focused on the utilization and development of bioinformatics technologies and methods to study pediatric cancers, mostly pediatric leukemia.
 
 ## (i) Characterize the heterogeneity of pediatric leukemia
