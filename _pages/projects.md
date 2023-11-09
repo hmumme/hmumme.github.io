@@ -38,8 +38,8 @@ The first version of the PedSCAtlas is available online at [https://bhasinlab.bm
 
 ## (iii) Use omics technologies to identify novel immunotherapy targets
 
-**Chimeric antigen receptor T cell Targets**
+**Chimeric antigen receptor T cell targets in T-ALL**
 
-Chimeric antigen receptor T cells, or CAR-T cells, are human dervied effector T-cells engineering to target an epitope on malignant cancer cells. CAR-T immunotherapies have been developed and successful in B-cell acute lymphoblastic leukemia, B-ALL, with *CD19* and *BCMA* as targets. Current trials are undergoing for novel AML targets, such as *CD33* and *CD123*, but there is a lack of feasible CAR-T targets for t-cell acute lymphoblastic leukemia, T-ALL, due to the unique challges of developing a T-cell therapy for T-cell specific disease.
+Chimeric antigen receptor T cells, or CAR-T cells, are human dervied effector T-cells engineering to target an epitope on malignant cancer cells. CAR-T immunotherapies have been developed and successful in B-cell acute lymphoblastic leukemia, B-ALL, with *CD19* and *BCMA* as targets. Current trials are undergoing for novel AML targets, such as *CD33* and *CD123*, but there is a lack of feasible CAR-T targets for ***t-cell acute lymphoblastic leukemia***, T-ALL, due to the unique challges of developing a T-cell therapy for T-cell specific disease.
 
 We are utilizing our T-ALL single-cell sequencing data to identify novel CAR-T targets through a single-cell pipeline that tests for efficacy and safety of target genes by utilizing public and local single-cell datasets, of T-ALL and healthy samples.
