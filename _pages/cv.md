@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*Hope Mumme*
-
-*hmumme@emory.edu*
-
-*Atlanta, GA*
+----------------
 
 EDUCATION
 ======
