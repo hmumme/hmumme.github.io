@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+*Hope Mumme*
+
+*hmumme@emory.edu*
+
+*Atlanta, GA*
+
 EDUCATION
 ======
 * B.Sc. in Biomedical Engineering, Georgia Institute of Technology - Dec 2020
