@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+----------------
 I am PhD Candidate at Emory University, in the Computer Science and Informatics - Biomedical Informatics program. I have been a researcher in the [Bhasin Systems Biomedicine Lab](https://bhasinlab.org/) since January 2021, joining after graduating from Georgia Tech with a BSc in biomedical engineering in December 2020. I started the Computer Science and Informatics PhD program, with a concentration in [Biomedical Informatics](https://med.emory.edu/departments/biomedical-informatics/index.html), in August 2021.
 
 ### Background
