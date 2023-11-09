@@ -8,7 +8,7 @@ author_profile: true
 
 My research projects are mainly focused on the utilization and development of bioinformatics technologies and methods to study pediatric cancers, mostly pediatric leukemia.
 
-## Characterize the heterogeneity of pediatric leukemia
+## (i) Characterize the heterogeneity of pediatric leukemia
 
 Because of the low prevalence of cancer in children compared to adults, there is historically a lack of publicly available datasets and specific research pertaining to childhood cancer. Using single-cell RNA sequencing and other next-generation sequencing technologies, we can characterize the heterogeneity inter-subtype and intra-subtype malignant and microenvironment populations.
 
@@ -30,13 +30,13 @@ In our 2023 publication in *Nature Communications*, we again utilize single-cell
 
 Through our labs indvidual acute leukemia subtype studies, we have compiled a large consortium of pediatric acute leukemia single-cell RNA sequencing samples (over eighty). Through single-cell analytical methods, we integrate and perform a ***pan-leukemia*** analysis to assess how acute leukemia subtypes are similarity dysregulated compared to *normal* bone marrow from healthy donors.
 
-## Create tools to increase accessibility of pan-cancer datasets and analytical modules
+## (ii) Create tools to increase accessibility of pan-cancer datasets and analytical modules
 
 While single-cell technologies are incredibly useful in understanding cellular population transcriptome patterns, the utilization of these sequencing and analysis methods requires the use of bioinformatics and high-performance computing to analyze these large datasets. We are developing a ***Pediatric Single-Cell Cancer Atlas***, or ***PedSCAtlas***, to facilitate the analysis and exploration of multiple pan-cancer datasets without the requirement of bioinformatics expertise by the user. This increases the accessibility of pediatric datasets, which is incredibly important due to the lack of pediatric-specific studies and datasets due to the lower incidence of cancer in children compared to adults.
 
 The first version of the PedSCAtlas is available online at [https://bhasinlab.bmi.emory.edu/PediatricSCAtlas/](https://bhasinlab.bmi.emory.edu/PediatricSCAtlas/). 
 
-## Use omics technologies to identify novel immunotherapy targets
+## (iii) Use omics technologies to identify novel immunotherapy targets
 
 **Chimeric antigen receptor T cell Targets**
 
