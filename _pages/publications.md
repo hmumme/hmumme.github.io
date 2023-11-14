@@ -30,7 +30,7 @@ Andueza A, Kumar S, Kim J, Kang DW, **Mumme HL** *et al*. Endothelial Reprogramm
 
 Mankoul-Mansour MM, El-Beyrouthy JB, **Mumme HL**, and Freeman, EC. Photopolymerized microdomains in both lipid leaflets establish diffusive transport pathways across biomimetic membranes. ***Soft Matter*** 15, 43 (2019). [https://doi.org/10.1039/C9SM01658A](https://doi.org/10.1039/C9SM01658A)
 
-##
+----------------
 
 Please see my Google Scholar site for a full list of publications.
 
