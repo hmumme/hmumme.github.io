@@ -8,6 +8,8 @@ author_profile: true
 
 ----------------
 
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=kSPZgioAAAAJ&hl=en" data-iframely-url="//iframely.net/gkBoO7U"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
 ## 2023
 
 **Mumme HL**, Raikar SS, Bhasin SS *et al*. Single-cell RNA sequencing distinctly characterizes the wide heterogeneity in pediatric mixed phenotype acute leukemia. ***Genome Med*** 15, 83 (2023). [https://doi.org/10.1186/s13073-023-01241-z](https://doi.org/10.1186/s13073-023-01241-z)
