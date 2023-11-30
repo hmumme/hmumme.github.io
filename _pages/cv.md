@@ -78,4 +78,4 @@ SKILLS
 
 ======
 
-<a href="files/cv_hopemumme_Oct23.pdf" download="hopemumme_CV">Download a pdf of my CV</a>
+<a href="files/cv_hopemumme_Oct23.pdf" download="hopemumme_CV.pdf">Download a pdf of my CV</a>
