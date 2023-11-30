@@ -33,5 +33,3 @@ Mankoul-Mansour MM, El-Beyrouthy JB, **Mumme HL**, and Freeman, EC. Photopolymer
 ----------------
 
 Please see my Google Scholar site for a full list of publications.
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=kSPZgioAAAAJ&hl=en" data-iframely-url="//iframely.net/gkBoO7U"></a></div></div><script async src="//iframely.net/embed.js"></script>
