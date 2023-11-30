@@ -76,3 +76,6 @@ SKILLS
 
 **Other**: Github, Microsoft Office
 
+======
+
+<a href="files/cv_hopemumme_Oct23.pdf" download="hopemumme_CV">Download a pdf of my CV</a>
