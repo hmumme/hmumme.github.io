@@ -60,6 +60,13 @@ TEACHING AND ACTIVITIES
 * Emory CS 170, Graduate TA (Fall 2022)
 * Emory CS 470, Graduate TA (Spring 2023)
 
+WORKSHOPS
+======
+* NCI [Human Tumor Atlas Network (HTAN) Data Jamboree](https://humantumoratlas.org/jamboree) (December 2023)
+  * download, process, and map immune infiltration of HTAN spatial transcriptomics (ST) data (using scRNA-seq as reference for immune signatures)
+  * gained experience with analyzing 10X Visium data and pancreatic ductal adenocarcinoma (PDAC)
+  * HTAN Immune Infiltration [Github](https://github.com/NCI-HTAN-Jamborees/Immune-infiltration) with our code and results
+
 AWARDS
 ======
 * Best Poster, [Atlanta Workshop on Single-cell Omics](https://research.gatech.edu/data/events/awsom) (April 2023)
@@ -68,7 +75,7 @@ SKILLS
 ======
 **Programming**: R, Python, Latex, Matlab, MarkDown, Java, Bash
 
-**Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq
+**Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium)
 
 **AI**: scikit-learn, tensorflow, pytorch
 
