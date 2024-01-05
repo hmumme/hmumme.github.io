@@ -85,4 +85,4 @@ SKILLS
 
 ======
 
-<a href="https://github.com/hmumme/hmumme.github.io/blob/e53ea03dbf337946c2d32482e5854c05a55dd3d8/files/cv_hopemumme_Oct23.pdf">View a pdf of my CV.</a>
+<a href="https://github.com/hmumme/hmumme.github.io/blob/fa1555149b30473ece255463e76e4cfd315e7e0d/files/cv_hopemumme.pdf">View a pdf of my CV.</a>
