@@ -83,6 +83,6 @@ SKILLS
 
 **Other**: Github, Microsoft Office
 
-======
+-------------------
 
 <a href="https://github.com/hmumme/hmumme.github.io/blob/fa1555149b30473ece255463e76e4cfd315e7e0d/files/cv_hopemumme.pdf">View a pdf of my CV.</a>
