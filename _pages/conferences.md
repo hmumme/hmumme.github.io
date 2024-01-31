@@ -29,4 +29,5 @@ Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
 
 ## Jamborees and Hackathons
 ### NCI Human Tumor Atlas Network Data Jamboree '23:
-- Member of HTAN Immune Infiltration Project [Github](https://github.com/NCI-HTAN-Jamborees/Immune-infiltration)
+- Member of HTAN Immune Infiltration Project
+- Project [GitHub Repository](https://github.com/NCI-HTAN-Jamborees/Immune-infiltration)
