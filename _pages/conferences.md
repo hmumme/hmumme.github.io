@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conferences"
+title: "Conferences and Workshops"
 permalink: /conferences/
 author_profile: true
 ---
@@ -26,3 +26,7 @@ author_profile: true
 ### Poster Presentations:
 * **Mumme H**, AWSOM, April 2023. "Single Cell RNA Sequencing
 Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
+
+## Jamborees and Hackathons
+### NCI Human Tumor Atlas Network Data Jamboree '23:
+- Member of HTAN Immune Infiltration Project [Github](https://github.com/NCI-HTAN-Jamborees/Immune-infiltration)
