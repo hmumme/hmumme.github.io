@@ -87,4 +87,5 @@ SKILLS
 
 -------------------
 
-<a href="https://github.com/hmumme/hmumme.github.io/blob/fa1555149b30473ece255463e76e4cfd315e7e0d/files/cv_hopemumme.pdf">View a pdf of my CV.</a>
+<a href="https://github.com/hmumme/hmumme.github.io/blob/0d5208c683a14600ce8133f49fe223ffcd7edb13/files/cv_hopemumme.pdf">View a pdf of my CV.</a>
+
