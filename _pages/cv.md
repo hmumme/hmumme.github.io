@@ -13,14 +13,16 @@ redirect_from:
 
 EDUCATION
 ======
-* B.Sc. in Biomedical Engineering, Georgia Institute of Technology - Dec 2020
-* Ph.D in Computer Science and Informatics - May 2025 (Expected)
+* B.Sc. Biomedical Engineering, Georgia Institute of Technology - Dec 2020
+* M.Sc. Computer Science and Informatics (Interim Masters) - May 2024
+* Ph.D Computer Science and Informatics (Concentration: Biomedical Informatics) - May 2025 (Expected)
 
 RESEARCH
 ======
 **Graduate Researcher, Bhasin Lab** - *Emory University (2021-)*
+* Developing CAR-T target identification platform using single-cell RNA sequencing data from leukemia and vital tissues. Identifying targets or pairs of targets, including for logic-gated CARs
 * Performed pediatric Pan-Leukemia transcriptomic analysis to identify 9 genes dysregulated in leukemia and over-expressed at diagnosis in AML, ALL, and MPAL
-* Developed [PedSCAtlas](https://bhasinlab.bmi.emory.edu/PediatricSCAtlas/), first interactive tool for analyzing compiled datasets of pediatric single-cell RNA-seq cancer datasets for pediatric cancer subtypes
+* Developed [PedSCAtlas](https://bhasinlab.bmi.emory.edu/PediatricSCAtlas/), interactive tool for analyzing compiled datasets of pediatric single-cell RNA-seq cancer datasets for pediatric cancer subtypes
 * Performed single-cell RNA-seq analysis of pediatric mixed phenotype acute leukemia (MPAL), and comparison to other acute leukemia subtypes
 * Validated our group’s 7-gene signature for identification of AML malignant blast cells using external single-cell and bulk RNA-seq datasets
 * Assisted with various bioinformatics projects in the lab, such as the development and maintenance of the web resource Survival Genie, single-cell analysis of T-cell acute lymphoid leukemia immune microenvironment, and the single-cell analysis of diabetic foot ulcer healing
@@ -73,7 +75,7 @@ AWARDS
 
 SKILLS
 ======
-**Programming**: R, Python, Latex, Matlab, MarkDown, Java, Bash
+**Programming**: R, Python, Bash, Matlab, MarkDown, Java, LaTeX, Git
 
 **Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium)
 
