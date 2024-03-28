@@ -9,6 +9,10 @@ author_profile: true
 
 ----------------
 
+## St. Jude National Graduate Student Symposium (NGSS)
+### Poster Presentation:
+* **Mumme HL**, NGSS, March 2024. "Single-cell RNA sequencing distinctly characterizes the wide heterogeneity in pediatric mixed phenotype acute leukemia".
+
 ## American Society of Hematology (ASH)
 ### Oral Presentations:
 * **Mumme HL**, Bhasin SS, Nawaz M, Thomas BE, Huang C, DeRyckere D, Castellino SM, Wechsler DS, Raikar SS, Porter CC, Graham DK, Bhasin M; "A Single Cell Atlas and Interactive Web-Resource of Pediatric Cancers and Healthy Bone Marrow". ***Blood*** 2022; 140 (Supplement 1): 2278–2279. doi: [https://doi.org/10.1182/blood-2022-169153](https://doi.org/10.1182/blood-2022-169153).
@@ -21,11 +25,11 @@ author_profile: true
 ## Atlanta Workshop on Single-cell Omics (AWSOM)
 
 ### Oral Presentations:
-* **Mumme H**, AWSOM, April 2022. "Pediatric Cancer Cell Atlas"
+* **Mumme H**, AWSOM, April 2022. "Pediatric Cancer Cell Atlas".
 
 ### Poster Presentations:
 * **Mumme H**, AWSOM, April 2023. "Single Cell RNA Sequencing
-Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
+Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia".
 
 ## Jamborees and Hackathons
 ### NCI Human Tumor Atlas Network Data Jamboree '23:
