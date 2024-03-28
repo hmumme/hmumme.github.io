@@ -47,6 +47,7 @@ PUBLICATIONS
 
 PRESENTATIONS
 ======
+* Poster Presentation, [St. Jude National Graduate Student Symposium](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html), March 2024. "Single Cell RNA Sequencing Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
 * Poster Presentation, [Atlanta Workshop on Single-cell Omics](https://research.gatech.edu/data/events/awsom), April 2023. "Single Cell RNA Sequencing Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
 * Oral Presentation, American Society of Hematology, Dec 2022. "A Single Cell Atlas and Interactive Web-Resource of Pediatric Cancers and Healthy Bone Marrow", [https://doi.org/10.1182/blood-2022-169153](https://doi.org/10.1182/blood-2022-169153)
 * Oral Presentation, Atlanta Workshop on Single-cell Omics, April 2022. "Pediatric Cancer Cell Atlas"
@@ -87,5 +88,5 @@ SKILLS
 
 -------------------
 
-<a href="https://github.com/hmumme/hmumme.github.io/blob/0d5208c683a14600ce8133f49fe223ffcd7edb13/files/cv_hopemumme.pdf">View a pdf of my CV.</a>
+<a href="https://github.com/hmumme/hmumme.github.io/blob/fd47b1885c1ef0d70ffb42f01c59b65d76e2683b/files/cv_hopemumme.pdf">View a pdf of my CV.</a>
 
