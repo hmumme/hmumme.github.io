@@ -47,10 +47,12 @@ PUBLICATIONS
 
 PRESENTATIONS
 ======
+* Poster Presentation, [Atlanta Workshop on Single-cell Omics](https://research.gatech.edu/data/events/awsom), April 2024. "CAR-Machine: Resource for Single-Cell Guided CAR-T Target Identification and Testing for Hematological Childhood Cancers"
+* Poster Presentation, [Atlanta Workshop on Single-cell Omics](https://research.gatech.edu/data/events/awsom), April 2024. "Single-cell Profile of Prostate Cancer PBMCs Before and After Androgen Deprivation Therapy"
 * Poster Presentation, [St. Jude National Graduate Student Symposium](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html), March 2024. "Single Cell RNA Sequencing Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
 * Poster Presentation, [Atlanta Workshop on Single-cell Omics](https://research.gatech.edu/data/events/awsom), April 2023. "Single Cell RNA Sequencing Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
-* Oral Presentation, American Society of Hematology, Dec 2022. "A Single Cell Atlas and Interactive Web-Resource of Pediatric Cancers and Healthy Bone Marrow", [https://doi.org/10.1182/blood-2022-169153](https://doi.org/10.1182/blood-2022-169153)
-* Oral Presentation, Atlanta Workshop on Single-cell Omics, April 2022. "Pediatric Cancer Cell Atlas"
+* **Oral Presentation**, American Society of Hematology, Dec 2022. "A Single Cell Atlas and Interactive Web-Resource of Pediatric Cancers and Healthy Bone Marrow", [https://doi.org/10.1182/blood-2022-169153](https://doi.org/10.1182/blood-2022-169153)
+* **Oral Presentation**, Atlanta Workshop on Single-cell Omics, April 2022. "Pediatric Cancer Cell Atlas"
 * Poster Presentation, American Society of Hematology, Dec 2021. "Pediatric Single Cell Cancer Atlas: An Integrative Web-Based Resource for Single Cell Transcriptome Data from Pediatric Leukemias",
 [https://doi.org/10.1182/blood-2021-154282](https://doi.org/10.1182/blood-2021-154282)
 * Poster Presentation, American Society of Hematology, Dec 2021. "Single Cell RNA Sequencing Driven Characterization of Rare B/Myeloid and T/Myeloid Mixed Phenotype Acute Leukemia",
