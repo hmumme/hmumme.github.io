@@ -25,11 +25,15 @@ author_profile: true
 ## Atlanta Workshop on Single-cell Omics (AWSOM)
 
 ### Oral Presentations:
-* **Mumme H**, AWSOM, April 2022. "Pediatric Cancer Cell Atlas".
+* **Mumme H**, Bhasin SS, Thomas BE, Dwivedi B, DeRyckere D, Castellino SM, Wechsler DS, Raikar SS, Porter CC, Graham DK, Bhasin M. AWSOM, April 2022. "Pediatric Cancer Cell Atlas".
 
 ### Poster Presentations:
-* **Mumme H**, AWSOM, April 2023. "Single Cell RNA Sequencing
-Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia".
+* **Mumme H**, Raikar SS, Bhasin SS, Thomas BE, DeRyckere D, Wechsler DS, Porter CC, Castellino SM, Graham DK, Bhasin M. AWSOM, April 2023. "Single Cell RNA Sequencing
+Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia". AWSOM, April 2023.
+
+* **Mumme H**, Bhasin SS, Raikar SS, Bhasin M. "CAR-Machine: Resource for Single-cell Guided CAR-T Target Identification and Testing for Hematological Childhood Cancers". AWSOM, April 2024.
+
+* **Mumme H**, Srinivasan AV, Patel SA, Mandawat A, Bhasin M. "Single-cell Profile of Prostate Cancer PBMCs Before and After Androgen Deprivation Therapy". AWSOM, April 2024.
 
 ## Jamborees and Hackathons
 ### NCI Human Tumor Atlas Network Data Jamboree '23:
