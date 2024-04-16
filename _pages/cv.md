@@ -90,5 +90,5 @@ SKILLS
 
 -------------------
 
-<a href="https://github.com/hmumme/hmumme.github.io/blob/fd47b1885c1ef0d70ffb42f01c59b65d76e2683b/files/cv_hopemumme.pdf">View a pdf of my CV.</a>
+[View a pdf of my CV.](../files/cv_hopemumme.pdf)
 
