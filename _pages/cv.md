@@ -35,6 +35,7 @@ RESEARCH
   
 PUBLICATIONS
 ======
+* Choi D, Bakhtiari M, Pilcher W, Huang C, Thomas BE, **Mumme H**, et al. Single-cell analysis of debrided diabetic foot ulcers reveals dysregulated wound healing environment in non-hispanic blacks. ***JID*** (2024). [https://doi.org/10.1016/j.jid.2024.07.017](https://doi.org/10.1016/j.jid.2024.07.017)
 * **Mumme HL**, Raikar SS, Bhasin SS et al. Single-cell RNA sequencing distinctly characterizes the wide heterogeneity in pediatric mixed phenotype acute leukemia. ***Genome Med*** 15, 83 (2023). [https://doi.org/10.1186/s13073-023-01241-z](https://doi.org/10.1186/s13073-023-01241-z)
 * **Mumme H**, Thomas BE, Bhasin SS et al. Single-cell analysis reveals altered tumor microenvironments of relapse- and remission-associated pediatric acute myeloid leukemia. ***Nat Commun*** 14, 6209 (2023).
 [https://doi.org/10.1038/s41467-023-41994-0](https://doi.org/10.1038/s41467-023-41994-0)
