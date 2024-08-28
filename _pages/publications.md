@@ -7,6 +7,8 @@ author_profile: true
 {% include base_path %}
 
 ----------------
+## 2024
+Choi D, Bakhtiari M, Pilcher W, Huang C, Thomas BE, **Mumme H**, *et al*. Single-cell analysis of debrided diabetic foot ulcers reveals dysregulated wound healing environment in non-hispanic blacks. ***JID*** (2024). [https://doi.org/10.1016/j.jid.2024.07.017](https://doi.org/10.1016/j.jid.2024.07.017)
 
 ## 2023
 
