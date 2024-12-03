@@ -13,25 +13,27 @@ redirect_from:
 
 EDUCATION
 ======
-* B.Sc. Biomedical Engineering, Georgia Institute of Technology - Dec 2020
-* M.Sc. Computer Science and Informatics (Interim Masters) - May 2024
-* Ph.D Computer Science and Informatics (Concentration: Biomedical Informatics) - May 2025 (Expected)
+* **PhD** Computer Science and Informatics (Concentration: Biomedical Informatics) - May 2025 (Expected)
+* **MSc** Computer Science and Informatics (Interim Masters) - May 2024
+* **BSc** Biomedical Engineering, Georgia Institute of Technology - Dec 2020
 
 RESEARCH
 ======
-**Graduate Researcher, Bhasin Lab** - *Emory University (2021-)*
+**Graduate Researcher, Bhasin Lab** - *Emory University (2021-) - Atlanta, GA*
 * Developing CAR-T target identification platform using single-cell RNA sequencing data from leukemia and vital tissues. Identifying targets or pairs of targets, including for logic-gated CARs
+* Utilized supervised learning methods to predict protein expression from mRNA measurements by training with paired CITE-seq data, addressing poor correlation between ADT and RNA levels to accurately label distinct blast populations in MPAL
 * Performed pediatric Pan-Leukemia transcriptomic analysis to identify 9 genes dysregulated in leukemia and over-expressed at diagnosis in AML, ALL, and MPAL
 * Developed [PedSCAtlas](https://bhasinlab.bmi.emory.edu/PediatricSCAtlas/), interactive tool for analyzing compiled datasets of pediatric single-cell RNA-seq cancer datasets for pediatric cancer subtypes
 * Performed single-cell RNA-seq analysis of pediatric mixed phenotype acute leukemia (MPAL), and comparison to other acute leukemia subtypes
 * Validated our group’s 7-gene signature for identification of AML malignant blast cells using external single-cell and bulk RNA-seq datasets
 * Assisted with various bioinformatics projects in the lab, such as the development and maintenance of the web resource Survival Genie, single-cell analysis of T-cell acute lymphoid leukemia immune microenvironment, and the single-cell analysis of diabetic foot ulcer healing
 
-**Undergraduate Researcher, Jo Lab** - *Georgia Institute of Technology (2019-2020)*
+**Undergraduate Researcher, Jo Lab** - *Georgia Institute of Technology (2019-2020) - Atlanta, GA*
 * Performed scRNA-seq, scATAC-seq, and lncRNA analysis to study endothelial cell reprogramming in the carotid artery
 
-**Data Analysis Internship** - *Open Medicine Institute (2018)*
+**Data Analysis Internship** - *Open Medicine Institute (2018) - Mountain View, CA*
 * Developed a single-cell RNA sequencing protocol for their patient data
+* Developed and implemented personalized healthcare solutions
   
 PUBLICATIONS
 ======
@@ -83,13 +85,15 @@ SKILLS
 
 **Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium)
 
+**Communication**: Oral and poster presentations at scientific conferences, presenting projects to analytical team and clinical collaborators.
+
 **AI**: scikit-learn, tensorflow, pytorch
 
-**Web Tool Dev**: R shiny, Python dash, HTML
+**Web Tool Dev**: R shiny, Python plotly dash, HTML
 
 **Other**: Github, Microsoft Office
 
 -------------------
 
-[View a pdf of my CV.](../files/cv_hopemumme.pdf)
+[Download a pdf of my CV.](../files/cv_hopemumme.pdf)
 
