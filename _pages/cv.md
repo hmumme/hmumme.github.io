@@ -19,7 +19,7 @@ EDUCATION
 
 RESEARCH
 ======
-**Graduate Researcher, Bhasin Lab** - *Emory University (2021-) - Atlanta, GA*
+**Graduate Researcher, Bhasin Lab** - Emory University (2021-), Atlanta, GA
 * Developing CAR-T target identification platform using single-cell RNA sequencing data from leukemia and vital tissues. Identifying targets or pairs of targets, including for logic-gated CARs
 * Utilized supervised learning methods to predict protein expression from mRNA measurements by training with paired CITE-seq data, addressing poor correlation between ADT and RNA levels to accurately label distinct blast populations in MPAL
 * Performed pediatric Pan-Leukemia transcriptomic analysis to identify 9 genes dysregulated in leukemia and over-expressed at diagnosis in AML, ALL, and MPAL
@@ -28,10 +28,10 @@ RESEARCH
 * Validated our group’s 7-gene signature for identification of AML malignant blast cells using external single-cell and bulk RNA-seq datasets
 * Assisted with various bioinformatics projects in the lab, such as the development and maintenance of the web resource Survival Genie, single-cell analysis of T-cell acute lymphoid leukemia immune microenvironment, and the single-cell analysis of diabetic foot ulcer healing
 
-**Undergraduate Researcher, Jo Lab** - *Georgia Institute of Technology (2019-2020) - Atlanta, GA*
+**Undergraduate Researcher, Jo Lab** - Georgia Institute of Technology (2019-2020), Atlanta, GA
 * Performed scRNA-seq, scATAC-seq, and lncRNA analysis to study endothelial cell reprogramming in the carotid artery
 
-**Data Analysis Internship** - *Open Medicine Institute (2018) - Mountain View, CA*
+**Data Analysis Internship** - Open Medicine Institute (2018), Mountain View, CA
 * Developed a single-cell RNA sequencing protocol for their patient data
 * Developed and implemented personalized healthcare solutions
   
