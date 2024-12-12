@@ -8,6 +8,8 @@ author_profile: true
 
 ----------------
 ## 2024
+Bakhtiari M, Jordan SC, **Mumme HL**, *et al*. ARMH1 is a novel marker associated with poor pediatric AML outcomes that affect the fatty acid synthesis and cell cycle pathways. ***Frontiers in Oncology*** (2024). [https://doi.org/10.3389/fonc.2024.1445173](https://doi.org/10.3389/fonc.2024.1445173)
+
 Choi D, Bakhtiari M, Pilcher W, Huang C, Thomas BE, **Mumme H**, *et al*. Single-cell analysis of debrided diabetic foot ulcers reveals dysregulated wound healing environment in non-hispanic blacks. ***JID*** (2024). [https://doi.org/10.1016/j.jid.2024.07.017](https://doi.org/10.1016/j.jid.2024.07.017)
 
 ## 2023
