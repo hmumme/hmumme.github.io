@@ -50,6 +50,7 @@ PUBLICATIONS
 
 PRESENTATIONS
 ======
+* Poster Presentation, American Society of Hematology, Dec 2024. "CAR-Machine: CAR-T Cell Target Identification Platform for Pediatric Acute Leukemia and Implementation to Identify Novel Targets for Pediatric AML", [https://doi.org/10.1182/blood-2024-210175](https://doi.org/10.1182/blood-2024-210175)
 * Poster Presentation, [Atlanta Workshop on Single-cell Omics](https://research.gatech.edu/data/events/awsom), April 2024. "CAR-Machine: Resource for Single-Cell Guided CAR-T Target Identification and Testing for Hematological Childhood Cancers"
 * Poster Presentation, [Atlanta Workshop on Single-cell Omics](https://research.gatech.edu/data/events/awsom), April 2024. "Single-cell Profile of Prostate Cancer PBMCs Before and After Androgen Deprivation Therapy"
 * Poster Presentation, [St. Jude National Graduate Student Symposium](https://www.stjude.org/education-training/predoctoral-training/graduate-students/national-graduate-student-symposium-ngss.html), March 2024. "Single Cell RNA Sequencing Driven Characterization of Pediatric Mixed Phenotype Acute Leukemia"
