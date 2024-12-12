@@ -37,6 +37,7 @@ RESEARCH
   
 PUBLICATIONS
 ======
+* Bakhtiari M, Jordan SC, **Mumme HL**, et al. ARMH1 is a novel marker associated with poor pediatric AML outcomes that affect the fatty acid synthesis and cell cycle pathways. ***Frontiers in Oncology*** (2024). [https://doi.org/10.3389/fonc.2024.1445173](https://doi.org/10.3389/fonc.2024.1445173)
 * Choi D, Bakhtiari M, Pilcher W, Huang C, Thomas BE, **Mumme H**, et al. Single-cell analysis of debrided diabetic foot ulcers reveals dysregulated wound healing environment in non-hispanic blacks. ***JID*** (2024). [https://doi.org/10.1016/j.jid.2024.07.017](https://doi.org/10.1016/j.jid.2024.07.017)
 * **Mumme HL**, Raikar SS, Bhasin SS et al. Single-cell RNA sequencing distinctly characterizes the wide heterogeneity in pediatric mixed phenotype acute leukemia. ***Genome Med*** 15, 83 (2023). [https://doi.org/10.1186/s13073-023-01241-z](https://doi.org/10.1186/s13073-023-01241-z)
 * **Mumme H**, Thomas BE, Bhasin SS et al. Single-cell analysis reveals altered tumor microenvironments of relapse- and remission-associated pediatric acute myeloid leukemia. ***Nat Commun*** 14, 6209 (2023).
@@ -65,10 +66,11 @@ PRESENTATIONS
   
 TEACHING AND ACTIVITIES
 ======
-* Emory CS 170, Graduate TA (Fall 2021)
+* Emory CS 170 - *Introduction to Computer Science I* (***Java***), Graduate TA (Fall 2021)
 * Atlanta Workshop on Single-cell Omics, Planning Committee (April 2022)
-* Emory CS 170, Graduate TA (Fall 2022)
-* Emory CS 470, Graduate TA (Spring 2023)
+* Emory CS 170 - *Introduction to Computer Science I* (***Java***), Graduate TA (Fall 2022)
+* Emory CS 470 - *Data Mining* (**Java/Python**), Graduate TA (Spring 2023)
+* Emory QTM 150 - *Introduction to Statistical Computing I* (**R**), Graduate TA (Fall 2024)
 
 WORKSHOPS
 ======
