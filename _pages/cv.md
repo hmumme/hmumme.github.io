@@ -13,7 +13,7 @@ redirect_from:
 
 EDUCATION
 ======
-* **PhD** Computer Science and Informatics (Concentration: Biomedical Informatics) - May 2025 (Expected)
+* **PhD** Computer Science and Informatics (Concentration: Biomedical Informatics) - Aug 2025 (Expected)
 * **MSc** Computer Science and Informatics (Interim Masters) - May 2024
 * **BSc** Biomedical Engineering, Georgia Institute of Technology - Dec 2020
 
@@ -37,6 +37,12 @@ RESEARCH
   
 PUBLICATIONS
 ======
+* **Mumme HL**, et al. Identification of leukemia-enriched signature through the development of a
+comprehensive pediatric single-cell atlas. ***Nat Commun*** 16, 4114 (2025).
+[https://doi.org/10.1038/s41467-025-59362-5](https://doi.org/10.1038/s41467-025-59362-5)
+* Yadalam AK, Chaudagar K, **Mumme H**, et. al. Rapid modulation of circulating adipokines and
+inflammatory cytokines in localized prostate cancer following short-term leuprolide therapy. ***Clinical
+Genitourinary Cancer*** 23, 4 (2025). [https://doi.org/10.1016/j.clgc.2025.102358](https://doi.org/10.1016/j.clgc.2025.102358)
 * Bakhtiari M, Jordan SC, **Mumme HL**, et al. ARMH1 is a novel marker associated with poor pediatric AML outcomes that affect the fatty acid synthesis and cell cycle pathways. ***Frontiers in Oncology*** (2024). [https://doi.org/10.3389/fonc.2024.1445173](https://doi.org/10.3389/fonc.2024.1445173)
 * Choi D, Bakhtiari M, Pilcher W, Huang C, Thomas BE, **Mumme H**, et al. Single-cell analysis of debrided diabetic foot ulcers reveals dysregulated wound healing environment in non-hispanic blacks. ***JID*** (2024). [https://doi.org/10.1016/j.jid.2024.07.017](https://doi.org/10.1016/j.jid.2024.07.017)
 * **Mumme HL**, Raikar SS, Bhasin SS et al. Single-cell RNA sequencing distinctly characterizes the wide heterogeneity in pediatric mixed phenotype acute leukemia. ***Genome Med*** 15, 83 (2023). [https://doi.org/10.1186/s13073-023-01241-z](https://doi.org/10.1186/s13073-023-01241-z)
@@ -85,17 +91,15 @@ AWARDS
 
 SKILLS
 ======
-**Programming**: R, Python, Bash, Matlab, MarkDown, Java, LaTeX, Git
+**Programming**: Python (Matplotlib, Seaborn, Pandas, scikit-learn, PyTorch, plotly, dash), R (dplyr, tidyr, ggplot2, shiny), Bash, SQL, Matlab, MarkDown, Java, LaTeX, Git
 
-**Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium)
+**Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium), lncRNA
+
+**Bioinformatics**: Seurat, Scanpy, batch correction, trajectory, RNA velocity, doublet identification, scvi-tools, GSEA, cellular communication, gene regulatory networks, cellranger, limma, STAR
 
 **Communication**: Oral and poster presentations at scientific conferences, presenting projects to analytical team and clinical collaborators.
 
-**AI**: scikit-learn, tensorflow, pytorch
-
-**Web Tool Dev**: R shiny, Python plotly dash, HTML
-
-**Other**: Github, Microsoft Office
+**AI**: Neural Networks, Regression, VAE, SVM, Random Forest, Transformers
 
 -------------------
 
