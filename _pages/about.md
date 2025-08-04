@@ -10,7 +10,7 @@ redirect_from:
 
 ----------------
 
-I am a data-driven and analytical CS PhD candidate at Emory University, specializing in Bioinformatics. My passion lies in translating large, complex datasets into actionable insights and developing interactive tools to empower decision-making. I enjoy the challenge of managing complex quantitative projects from start to finish and have a proven track record of delivering novel solutions for target identification and disease characterization.
+I am a data-driven and analytical CS PhD candidate at Emory University, specializing in **Data Science** and **Bioinformatics**. My passion lies in translating large, complex datasets into actionable insights and developing interactive tools to empower decision-making. I enjoy the challenge of managing complex quantitative projects from start to finish and have a proven track record of delivering novel solutions for target identification and disease characterization.
 
 Since January 2021, I have been a graduate researcher in the Bhasin Systems Biomedicine Lab, where I have had the opportunity to lead and contribute to a number of exciting projects. I led the development of "CAR-Machine," a Python platform that streamlines R&D by automating the identification of high-potential cell therapy targets from complex genomic data. I have also built "PedSCAtlas," an interactive dashboard to make complex pediatric cancer data accessible and explorable for non-technical users. My work has also involved building and validating predictive models, such as a 7-gene SVM classifier for identifying malignant cancer cells.
 
