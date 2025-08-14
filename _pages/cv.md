@@ -91,11 +91,13 @@ AWARDS
 
 SKILLS
 ======
-**Programming**: Python (Matplotlib, Seaborn, Pandas, scikit-learn, PyTorch, plotly, dash), R (dplyr, tidyr, ggplot2, shiny), Bash, SQL, Matlab, MarkDown, Java, LaTeX, Git
+**Programming**: Python (Matplotlib, Seaborn, Pandas, scikit-learn, PyTorch, plotly, dash), R (dplyr, tidyr, ggplot2, shiny), Bash, SQL, MarkDown, Java, LaTeX, Git
 
 **Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium), lncRNA, functional genomics, proteomics
 
 **Bioinformatics**: Seurat, Scanpy, batch correction, trajectory, RNA velocity, doublet identification, scvi-tools, GSEA, cellular communication, gene regulatory networks, cellranger, limma, STAR, Samtools, Bedtools, Nextflow
+
+**Bioengineering**: MATLAB, Signal Processing, Multivariate Analysis, Solidworks, 3D printing, Arduino, Medical Image Analysis, Problem Solving, Experimentation
 
 **Computing & Cloud**: High-Performance Computing, GPU, Slurm, Conda, Git, Docker, AWS, Azure
 
