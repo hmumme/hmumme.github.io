@@ -93,15 +93,15 @@ SKILLS
 ======
 **Programming**: Python (Matplotlib, Seaborn, Pandas, scikit-learn, PyTorch, plotly, dash), R (dplyr, tidyr, ggplot2, shiny), Bash, SQL, Matlab, MarkDown, Java, LaTeX, Git
 
-**Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium), lncRNA
+**Omics Analysis**: scRNA-seq, scATAC-seq, CITE-seq, bulk RNA-seq, Spatial Transcriptomics (Visium), lncRNA, functional genomics, proteomics
 
-**Bioinformatics**: Seurat, Scanpy, batch correction, trajectory, RNA velocity, doublet identification, scvi-tools, GSEA, cellular communication, gene regulatory networks, cellranger, limma, STAR
+**Bioinformatics**: Seurat, Scanpy, batch correction, trajectory, RNA velocity, doublet identification, scvi-tools, GSEA, cellular communication, gene regulatory networks, cellranger, limma, STAR, Samtools, Bedtools, Nextflow
 
-**Communication**: Oral and poster presentations at scientific conferences, presenting projects to analytical team and clinical collaborators.
+**Computing & Cloud**: High-Performance Computing, GPU, Slurm, Conda, Git, Docker, AWS, Azure
 
-**AI**: Neural Networks, Regression, VAE, SVM, Random Forest, Transformers
+**Communication**: Oral and poster presentations at scientific conferences, presenting projects to analytical team and non-technical audiences, including clinical team.
+
+**AI/ML**: Neural Networks, Regression, VAE, SVM, Random Forest, Transformers, Zero-Shot Learning
 
 -------------------
-
-[Download a pdf of my CV.](../files/cv_hopemumme.pdf)
 
