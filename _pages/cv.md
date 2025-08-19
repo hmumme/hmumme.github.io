@@ -99,7 +99,7 @@ SKILLS
 
 **Bioengineering**: MATLAB, Signal Processing, Multivariate Analysis, Solidworks, 3D printing, Arduino, Medical Image Analysis, Problem Solving, Experimentation
 
-**Computing & Cloud**: High-Performance Computing, GPU, Slurm, Conda, Git, Docker, AWS, Azure
+**Computing & Cloud**: High-Performance Computing, GPU, Slurm, Conda, Git, Docker, AWS, GCP, Azure
 
 **Communication**: Oral and poster presentations at scientific conferences, presenting projects to analytical team and non-technical audiences, including clinical team.
 
