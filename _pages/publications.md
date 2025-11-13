@@ -8,13 +8,11 @@ author_profile: true
 
 ----------------
 ## 2025
-Ohlstrom D, Bakhtiari M, **Mumme H**, *et al*.  Longitudinal single-cell analysis reveals treatment-resistant stem and mast cells with potential treatments for pediatric AML. ***Leukemia*** (2025). [https://doi.org/10.1038/s41375-025-02748-7](https://doi.org/10.1038/s41375-025-02748-7)
+Ohlstrom D, Bakhtiari M, **Mumme H**, *et al*.  Longitudinal single-cell analysis reveals treatment-resistant stem and mast cells with potential treatments for pediatric AML. ***Leukemia*** 39, 2721–2734 (2025). [https://doi.org/10.1038/s41375-025-02748-7](https://doi.org/10.1038/s41375-025-02748-7)
 
 Yadalam A, Chaudagar K, **Mumme H**, *et al*. Rapid Modulation of Circulating Adipokines and Inflammatory Cytokines in Localized Prostate Cancer Following Short-Term Leuprolide Therapy. ***Clinical Genitourinary Cancer*** 23, 4 (2025). [https://doi.org/10.1016/j.clgc.2025.102358](https://doi.org/10.1016/j.clgc.2025.102358)
 
 **Mumme HL**, *et al*. Identification of leukemia-enriched signature through the development of a comprehensive pediatric single-cell atlas. ***Nature Communications*** 16, 4114 (2025). [https://doi.org/10.1038/s41467-025-59362-5](https://doi.org/10.1038/s41467-025-59362-5)
-
-Yadalam AK, Chaudagar K, **Mumme H**, *et al*. Rapid Modulation of Circulating Adipokines and Inflammatory Cytokines in Localized Prostate Cancer Following Short-Term Leuprolide Therapy. ***Clinical Genitourinary Cancer*** 4, 23 (2025). [https://doi.org/10.1016/j.clgc.2025.102358](https://doi.org/10.1016/j.clgc.2025.102358)
 
 Choi D, Bakhtiari M, Pilcher W, Huang C, Thomas BE, **Mumme H**, *et al*. Single-cell analysis of debrided diabetic foot ulcers reveals dysregulated wound healing environment in non-hispanic black patients. ***JID*** 145, 3 (2025). [https://doi.org/10.1016/j.jid.2024.07.017](https://doi.org/10.1016/j.jid.2024.07.017)
 
